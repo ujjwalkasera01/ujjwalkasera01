@@ -2,7 +2,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Ujjwal Kasera</h1>
-
 <p align="center">
         <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Android+Developer;DSA+Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
