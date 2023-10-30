@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Ujjwal Kasera</h1>
 <p align="center">
-        <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Android+Developer;DSA+Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+       
 </p>
-    
+ <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Android+Developer;DSA+Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 <p align="center">
     <em>
         This is me <b>Ujjwal Kasera</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.akgec.ac.in" target="_main"> <b>Ajay Kumar garg Engineering college</b>, Ghaziabad</a>.
